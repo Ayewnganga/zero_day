@@ -1,1 +1,1 @@
-vagrant input workouts
+vagrant input
